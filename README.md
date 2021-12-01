@@ -23,4 +23,4 @@ API's used: Edamam (for Recipes) and Unsplash (for photos)
 ![Main_Page](/assets/images/Search.png "Search")
 
 ## Deployed Application
-https://mollymontgomery.github.io/Group-11-Project/
+https://abdinasirh.github.io/Interactive-Front-End-Project/
